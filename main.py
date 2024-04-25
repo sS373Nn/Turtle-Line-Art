@@ -1,6 +1,6 @@
 """
-David Cooper
-2104283
+-
+-
 COSC 1336
 Turtle Extra Credit
 This whole drawing was made using only straight lines.
